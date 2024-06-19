@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "cde9ae0783d414dce8ee873ffae2169b04446c56eead6dd1a732f02d9e00923f"
+build_start_time: [1718787736, 431061029]
+build_end_time: [1718787736, 508746147]
+inputs:
+  "/Users/pyae/Desktop/flutterPJ/iron_fish_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1718787691, 390224933]
+  "/Users/pyae/Desktop/flutterPJ/iron_fish_app/macos/Runner/AppDelegate.swift": !private [1717692553, 0]
+  "/Users/pyae/Desktop/flutterPJ/iron_fish_app/macos/Runner/MainFlutterWindow.swift": !private [1717692553, 0]
